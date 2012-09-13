@@ -1,41 +1,33 @@
-# Welcome
+# Добро пожаловать!
 
-There's a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and bad
-code. This must stop. _PHP: The Right Way_ is an easy-to-read, quick reference for PHP best practices, accepted coding
-standards, and links to authoritative tutorials around the Web.
+В сети очень много устаревшей информации, которая сбивает новичков с правильного пути, распространяя неудачные практики и плохой код. Пора с этим покончить. _PHP: Верный путь_ — это лёгкий для прочтения, краткий справочник лучших практик PHP разработки, включающий в себя стандарты кодировния и ссылки на авторитетные учебные материалы.
 
-## Translations
+## Другие языки
 
-_PHP: The Right Way_ is (or soon will be) translated into many different languages:
+_PHP: Верный путь_ переведён на различные языки:
 
-* [English](http://www.phptherightway.com)
-* [Chinese](http://wulijun.github.com/php-the-right-way)
-* [Japanese](http://ja.phptherightway.com)
-* Polish (Coming Soon)
-* Portuguese (Coming Soon)
-* Russian (Coming Soon)
-* [Spanish](http://es.phptherightway.com)
-* Ukrainian (Coming Soon)
+* [Английский](http://www.phptherightway.com)
+* [Китайский](http://wulijun.github.com/php-the-right-way)
+* [Японский](http://ja.phptherightway.com) 
+* [Русский](http://ru.phptherightway.com)
+* [Испанский](http://es.phptherightway.com)
 
-## Disclaimer
+## Условия предоставления 
 
-_There is no canonical way to use PHP_. However, this website is a humble display of best practices,
-available options, and good information. It aims to introduce new PHP developers and to rethink seasoned pros with fresh
-ideas.
+_Канонически верного пути использования PHP нет _. Как бы там не было этот сайт — всего лишь попытка представить лучшие практики, доступные возможности и полезную информацию. 
+Цель: новичков — ознакомить с информацией, а профессионалам дать пищу для ума.
 
-This is a living document and will continue to be updated with more helpful information and examples as they become
-available.
+Этот документ будет дополняться новой информацией и примерами, по мере возможностей.
 
-## How to Contribute
+## Как внести свой вклад?
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Помочь сделать сайт лучшим ресурсом для начинающих PHP программистов! [форкнуть на GitHub][1]
 
 ## Spread the Word!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+У ресурса есть баннеры для вашего сайта. У вас есть возможность оказать поддержку, разместив их у себя, тем самым указав новичкам место, где можно найти полезную информацию.
 
-[See Banner Images][2]
+[Посмотреть баннеры][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html
